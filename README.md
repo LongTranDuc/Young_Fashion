@@ -14,8 +14,8 @@
     + Login
     + CRUD category and products 
 ## Thành viên nhóm:
-- Thành viên 1 - Trần Đức Long
-- Thành viên 2 - Nguyễn Văn Luân
+- Thành viên 1 - Trần Đức Long - 22010139
+- Thành viên 2 - Nguyễn Văn Luân - 22014596
 
 
 ## Cấu trúc repository (sẽ cập nhật sau):
