@@ -1,13 +1,11 @@
 # Tên Dự Án: Young Fashion
 - Shop bán đồ thời trang cho giới trẻ
-  + Giày (hoàn thiện)
-  + Quần áo (Chưa hoàn thiện)
-  + Túi xách (Chưa hoàn thiện)
+  + Shop Giày
+  
 
 ## Mục tiêu:
-- Tạo một trang web bán đồ thời trang: Giày, Quần áo, Túi xách, ...
-- Có đầy đủ các chức năng cơ bản như:
-  Cho Admin:
+- Tạo một trang web bán đồ thời trang: cụ thể là bán giày.
+- Có đầy đủ các chức năng cơ bản cho admin như:
   + Thêm, Sửa, Xóa thương hiệu (MVP)
   + Thêm, sửa, xóa sản phẩm (MVP)
   
