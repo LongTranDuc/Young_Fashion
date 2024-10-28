@@ -1,6 +1,5 @@
 # Tên Dự Án: Young Fashion
-- Shop bán đồ thời trang cho giới trẻ
-  + Shop Giày
+- Shop bán giày cho giới trẻ.
   
 
 ## Mục tiêu:
