@@ -3,7 +3,7 @@
   
 
 ## Mục tiêu:
-- Tạo một trang web bán đồ thời trang: cụ thể là bán giày.
+- Tạo một giao admin cho trang web bán đồ thời trang: cụ thể là bán giày.
 - Có đầy đủ các chức năng cơ bản cho admin như:
   + Thêm, Sửa, Xóa thương hiệu (MVP)
   + Thêm, sửa, xóa sản phẩm (MVP)
