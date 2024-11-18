@@ -1,2 +1,0 @@
-user
-{"id":2,"username":"Admin","email":"admin@gmail.com","phone":"0343335657","roleId":"ADMIN","status":"ACTIVE","addressDetails":null,"province":null,"district":null,"ward":null}
