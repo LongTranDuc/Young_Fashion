@@ -8,7 +8,7 @@ const cors = require("cors");
 const app = express();
 
 app.use(function (req, res, next) {
-  // Website you wish to allow to connect
+  //Yeu cau truy cap tu website
   res.setHeader("Access-Control-Allow-Origin", process.env.URL_REACT);
 
   // Request methods you wish to allow
@@ -35,7 +35,7 @@ app.use(function (req, res, next) {
 app.use(bodyParser.json({ limit: "50mb" })); // doc nhung data tu client gui len dang json
 app.use(bodyParser.urlencoded({ limit: "50mb", extended: true })); // doc nhung data dang body
 
-//connectDB
+//Ket noi toi database
 connectDB();
 
 //initWebRoutes
